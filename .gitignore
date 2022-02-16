@@ -1,0 +1,17 @@
+/node_modules
+/plugins
+/public/dist
+/platforms/electron/dist
+/platforms/web/build/*
+/platforms/web/build/.*
+/platforms/web/tmp/pages/*.ts
+.env
+/public/assets
+/public/index.html
+/platforms/android/app/src/main/assets/*.json
+/platforms/android/app/src/main/assets/index.html
+/platforms/android/app/src/main/assets/assets
+/platforms/android/app/src/main/assets/icons
+/platforms/android
+/platforms/ios/.DS_Store
+/dist
