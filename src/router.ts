@@ -6,12 +6,16 @@ export default class RouterConfig {
                 name:"IndexPage"
             },
             {
-                url:"/page/example",
-                name:"ExamplePage"
-            },
-            {
                 url:"/index.html",
                 name:"IndexPage"
+            },
+            {
+                url:"/page/booking-app",
+                name:"TaniBooking"
+            },
+            {
+                url:"/page/welcome-app",
+                name:"TaniWelcome"
             }
         ]
     }

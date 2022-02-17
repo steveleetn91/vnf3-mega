@@ -1,19 +1,15 @@
 ![alt text](https://raw.githubusercontent.com/steveleetn91/vn-native-3/master/assets/images/solution.jpg)
 ![alt text](https://raw.githubusercontent.com/steveleetn91/vn-native-3/master/assets/images/logo.png)
-# Vn Native Framework Version 3 - Beta
+# Vn Native Framework Version 3 - MEGA APPLICATION
 
-Vn native framework is a framework useful all platforms, it's help you develop software, game, e-commerce for : 
-Android, iOS, MacOS, Windows, Web, Linux, with struct `lazy load` and `lazy build` you can use for big project. Slack room : 
+Currently Vn Native Framework using `LAZY LOAD`, so we can build MEGA WEB, MEGA SOFTWARE, MEGA APP by easy the ways.
+This is demo for MEGA APPLICATION. As you seen at `pages/TaniBooking` and `TaniWelcome`. 
 
-https://join.slack.com/t/vnnative/shared_invite/zt-10c6aiylx-GBQ8e2M_skQyh1i4fW879A
+If we need concat source more than one, example it's two source code. Very easy only copy all page at `pages`. Then 
+insert into main source, make router config at `src/router.ts`. Done. 
 
-Vn Native Framework using lazy load for all page, so it's ready for big project. 
-    `Note : We need NodeJS version >= 16.x.x`
-
-
-# Video how to install ? 
-
-    https://www.youtube.com/watch?v=fwB5k8Edp6Q
+Please view more at : 
+    `https://github.com/steveleetn91/vn-native-3`
 
 # How to install ? 
 Very easy, first you need 

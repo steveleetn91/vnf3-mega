@@ -3,4 +3,9 @@ export default interface IndexPageStateInterface {
     slogan: string;
     examplePageUrl : string;
     header : string;
+    apps : Array<{
+        icon : string,
+        url: string,
+        title : string
+    }>
 }
