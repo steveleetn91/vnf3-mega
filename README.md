@@ -11,6 +11,9 @@ insert into main source, make router config at `src/router.ts`. Done.
 Please view more at : 
     `https://github.com/steveleetn91/vn-native-3`
 
+Video demo: 
+    `https://www.youtube.com/watch?v=li6HPMnv5QI`
+
 # How to install ? 
 Very easy, first you need 
     `git clone https://github.com/steveleetn91/vn-native-3.git`
