@@ -1,5 +1,4 @@
-![alt text](https://raw.githubusercontent.com/steveleetn91/vn-native-3/master/assets/images/solution.jpg)
-![alt text](https://raw.githubusercontent.com/steveleetn91/vn-native-3/master/assets/images/logo.png)
+
 # Vn Native Framework Version 3 - MEGA APPLICATION
 
 Currently Vn Native Framework using `LAZY LOAD`, so we can build MEGA WEB, MEGA SOFTWARE, MEGA APP by easy the ways.
