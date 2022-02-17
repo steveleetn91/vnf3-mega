@@ -2,9 +2,10 @@
 # Vn Native Framework Version 3 - MEGA APPLICATION
 
 Currently Vn Native Framework using `LAZY LOAD`, so we can build MEGA WEB, MEGA SOFTWARE, MEGA APP by easy the ways.
-This is demo for MEGA APPLICATION. As you seen at `pages/TaniBooking` and `TaniWelcome`. 
+This is demo for MEGA APPLICATION. As you seen at `pages/TaniBooking` and `TaniWelcome` as two `Mini Application`.
+I don't know how about your project ? but I sure with `LAZY LOAD` is no problem. You can easy testing and know about it.  
 
-If we need concat source more than one, example it's two source code. Very easy only copy all page at `pages`. Then 
+If we need concats source more than one, example it's two source code. Very easy only copy all page at `pages`. Then 
 insert into main source, make router config at `src/router.ts`. Done. 
 
 Please view more at : 
